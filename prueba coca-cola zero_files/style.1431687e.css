@@ -120,8 +120,7 @@
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -928,8 +927,7 @@
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -1133,8 +1131,7 @@
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -4197,8 +4194,7 @@ select i {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -4670,8 +4666,7 @@ select i {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -4704,8 +4699,7 @@ select i {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(https://test.dia.es/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(https://test.dia.es/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -10602,8 +10596,7 @@ screen and (max-width:439px) {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -10881,8 +10874,7 @@ screen and (max-width:439px) {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -11717,8 +11709,7 @@ ul {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -11921,8 +11912,7 @@ ul {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -12061,8 +12051,7 @@ ul {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -12765,8 +12754,7 @@ ul {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -13505,8 +13493,7 @@ ul {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -15086,8 +15073,7 @@ a.disabled {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5);
-	src: url(/landing-front/assets/static/diaIcomoon.d8c303b0.eot?zax1n5#iefix) format("embedded-opentype"), url(/landing-front/assets/static/diaIcomoon.543d08bb.ttf?zax1n5) format("truetype"), url(/landing-front/assets/static/diaIcomoon.6ce3c63b.woff?zax1n5) format("woff"), url(/landing-front/assets/static/diaIcomoon.eee3271e.svg?zax1n5#diaIcomoon) format("svg");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -17067,16 +17053,14 @@ html #onetrust-banner-sdk .ot-b-addl-desc {
 
 @font-face {
 	font-family: diaIcomoon;
-	src: local("Segoe UI Symbol"), local("Arial");
+	src: url("./diaIcomoon.6ce3c63b.woff") format("woff"), url("./diaIcomoon.543d08bb.ttf") format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
 }
 
 /*
- * Hard fallback for text and icons in the offline copy.
- * The original page depended on a remote icon font, so we replace the
- * visible icons with simple CSS symbols and force text onto local fonts.
+ * Hard fallback for text in the offline copy.
  */
 html,
 body,
@@ -17093,84 +17077,7 @@ a {
 
 [class^=dia-icon-],
 [class*=" dia-icon-"] {
-	font-family: "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif !important
-}
-
-.dia-icon-dehaze:before {
-	content: "☰" !important
-}
-
-.dia-icon-Vector-1:before {
-	content: "🛒" !important
-}
-
-.dia-icon-lupa:before {
-	content: "🔍" !important
-}
-
-.dia-icon-truck:before {
-	content: "🚚" !important
-}
-
-.dia-icon-list:before {
-	content: "📋" !important
-}
-
-.dia-icon-Union:before {
-	content: "👤" !important
-}
-
-.dia-icon-in:before {
-	content: "→" !important
-}
-
-.dia-icon-phone-call:before {
-	content: "☎" !important
-}
-
-.dia-icon-bill:before {
-	content: "🧾" !important
-}
-
-.dia-icon-brochure:before {
-	content: "📰" !important
-}
-
-.dia-icon-credit-card:before {
-	content: "💳" !important
-}
-
-.dia-icon-location-on:before {
-	content: "📍" !important
-}
-
-.dia-icon-euro:before {
-	content: "€" !important
-}
-
-.dia-icon-facebook:before {
-	content: "f" !important;
-	font-weight: 700
-}
-
-.dia-icon-instagram:before {
-	content: "◎" !important
-}
-
-.dia-icon-twitter:before {
-	content: "𝕏" !important
-}
-
-.dia-icon-tik-tok:before {
-	content: "♪" !important
-}
-
-.dia-icon-youtube:before {
-	content: "▶" !important
-}
-
-.dia-icon-arrow_drop_down:before {
-	content: "▾" !important
+	font-family: diaIcomoon !important
 }
 
 .select-wrapper__es-lang,
